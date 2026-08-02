@@ -1,13 +1,13 @@
 ## ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif Animado">  
 <br/>
 
-Soy **Brandon Alonso Urbano Zea**, desarrollador enfocado en crear **soluciones digitales que resuelven problemas, optimizan procesos y mejoran la eficiencia** para empresas, organizaciones y profesionales independientes.
+Soy **Brandon Alonso Urbano Zea**, desarrollador web enfocado en construir **soluciones digitales** que resuelven problemas reales, optimizan procesos y están preparadas para escalar.
 
-He desarrollado **más de 15 proyectos** entre iniciativas personales y trabajos para clientes en **Colombia y el exterior**, construyendo plataformas **escalables, organizadas y mantenibles**.
+Integro **inteligencia artificial** en mis flujos de desarrollo utilizando modelos como Gemini, GPT y Claude en entornos de programación como Antigravity y Windsurf, lo que me permite **acelerar procesos, mejorar la calidad del código y mantener consistencia técnica en cada proyecto**.
 
-También integro inteligencia artificial dentro de mis flujos de desarrollo, utilizando modelos como **Gemini, GPT y Claude** en entornos profesionales como **Antigravity y Windsurf**, lo que me permite acelerar procesos, mejorar la calidad del código y mantener estándares técnicos consistentes.
+Además, he compartido conocimiento en espacios educativos como **Platzi**, donde dicté una charla sobre el uso de la IA como herramienta de aprendizaje, reflejando mi interés por la tecnología aplicada y el **aprendizaje continuo**.
 
-He compartido conocimiento en espacios educativos como **Platzi**, donde dicté una charla sobre el uso de la **IA como tutor personal**.
+Trabajo con un enfoque técnico y estratégico, comunicando cada etapa con claridad. Busco no solo desarrollar soluciones, sino construir sistemas bien estructurados que puedan **mantenerse, escalar y ser aprovechados al máximo**.
 
 Entre otras cosas... también me apasiona:  
 🎧 DJingㅤ🤖 Modelado 3Dㅤ🎨 Diseño gráficoㅤ🧳 Viajarㅤ📚 Leer  
@@ -17,13 +17,13 @@ Entre otras cosas... también me apasiona:
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>
 
-I'm **Brandon Alonso Urbano Zea**, a developer focused on building **digital solutions that solve problems, optimize processes and improve efficiency** for companies, organizations and independent professionals.
+I’m **Brandon Alonso Urbano Zea**, a web developer focused on building **digital solutions** that solve real problems, optimize processes, and are ready to scale.
 
-I have developed **15+ projects**, both personal and for clients in **Colombia and internationally**, building **scalable, well-structured and maintainable platforms**.
+I integrate **artificial intelligence** into my development workflows using models such as Gemini, GPT, and Claude in programming environments like Antigravity and Windsurf, which allows me to **accelerate processes, improve code quality, and maintain technical consistency in every project**.
 
-I also integrate artificial intelligence into my development workflow, using models such as **Gemini, GPT and Claude** within professional environments like **Antigravity and Windsurf**, helping accelerate development and improve code quality.
+In addition, I’ve shared my knowledge in educational spaces such as **Platzi**, where I gave a talk on using AI as a learning tool, reflecting my interest in applied technology and **continuous learning**.
 
-I have also shared knowledge in educational spaces such as **Platzi**, where I gave a talk about **using AI as a personal tutor**.
+I take a technical and strategic approach to my work, clearly communicating each stage of the process. My goal is not only to develop solutions but also to build well-structured systems that can **be maintained, scaled, and utilized to their full potential**.
 
 Among other things... I'm also passionate about:  
 🎧 DJingㅤ🤖 3D Modelingㅤ🎨 Graphic Designㅤ🧳 Travelㅤ📚 Reading  
