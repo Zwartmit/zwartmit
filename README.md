@@ -1,13 +1,15 @@
 ## ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif Animado">  
 <br/>
 
-Soy **Brandon Alonso Urbano Zea**, desarrollador web enfocado en construir **soluciones digitales** que resuelven problemas reales, optimizan procesos y están preparadas para escalar.
+Soy **Brandon Alonso Urbano Zea**, desarrollador creativo de Monterrey, Casanare. Me gusta entender cómo funcionan las cosas, experimentar con nuevas tecnologías y encontrar formas de hacer realidad las ideas.
 
-Integro **inteligencia artificial** en mis flujos de desarrollo utilizando modelos como Gemini, GPT y Claude en entornos de programación como Antigravity y Windsurf, lo que me permite **acelerar procesos, mejorar la calidad del código y mantener consistencia técnica en cada proyecto**.
+Trabajo entre el desarrollo web, la inteligencia artificial y la automatización, creando herramientas digitales que ayudan a resolver problemas y simplificar procesos. Me interesa todo el camino que hay detrás de una solución: entender qué hace falta, explorar posibilidades, construir, probar y mejorar.
 
-Además, he compartido conocimiento en espacios educativos como **Platzi**, donde dicté una charla sobre el uso de la IA como herramienta de aprendizaje, reflejando mi interés por la tecnología aplicada y el **aprendizaje continuo**.
+Aprendo haciendo. La curiosidad me ha llevado a experimentar con distintas tecnologías, explorar también el diseño y la creación audiovisual, y compartir lo que descubro. Incluso tuve la oportunidad de dar una charla en Platzi sobre cómo usar la IA como tutor personal.
 
-Trabajo con un enfoque técnico y estratégico, comunicando cada etapa con claridad. Busco no solo desarrollar soluciones, sino construir sistemas bien estructurados que puedan **mantenerse, escalar y ser aprovechados al máximo**.
+Soy tecnólogo en Análisis y Desarrollo de Software del SENA y actualmente estudio Ingeniería Informática en UNIR. Sigo construyendo mi camino, aprendiendo de cada proyecto y buscando nuevas formas de conectar la tecnología con las personas.
+
+No creo que las buenas ideas dependan de dónde estés, sino de las ganas de explorarlas y llevarlas a cabo. Si tienes algo en mente, me gustaría conocerlo y ver qué podemos construir.
 
 Entre otras cosas... también me apasiona:  
 🎧 DJingㅤ🤖 Modelado 3Dㅤ🎨 Diseño gráficoㅤ🧳 Viajarㅤ📚 Leer  
@@ -17,13 +19,16 @@ Entre otras cosas... también me apasiona:
 ## Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated Gif">  
 <br/>
 
-I’m **Brandon Alonso Urbano Zea**, a web developer focused on building **digital solutions** that solve real problems, optimize processes, and are ready to scale.
+I’m **Brandon Alonso Urbano Zea**, a creative developer from Monterrey, Casanare. I enjoy understanding how things work, experimenting with new technologies, and finding ways to bring ideas to life.
 
-I integrate **artificial intelligence** into my development workflows using models such as Gemini, GPT, and Claude in programming environments like Antigravity and Windsurf, which allows me to **accelerate processes, improve code quality, and maintain technical consistency in every project**.
+I work across web development, artificial intelligence, and automation, creating digital tools that help solve problems and simplify processes. I’m interested in the entire journey behind a solution: understanding what’s needed, exploring possibilities, building, testing, and improving.
 
-In addition, I’ve shared my knowledge in educational spaces such as **Platzi**, where I gave a talk on using AI as a learning tool, reflecting my interest in applied technology and **continuous learning**.
+I learn by doing. My curiosity has led me to experiment with different technologies, explore design and audiovisual creation, and share what I discover. I even had the opportunity to give a talk on Platzi about how to use AI as a personal tutor.
 
-I take a technical and strategic approach to my work, clearly communicating each stage of the process. My goal is not only to develop solutions but also to build well-structured systems that can **be maintained, scaled, and utilized to their full potential**.
+I have a degree in Software Analysis and Development from SENA, and I’m currently studying Computer Engineering at UNIR. I’m still forging my own path, learning from every project, and looking for new ways to connect technology with people.
+
+I don’t think good ideas depend on where you are, but rather on the desire to explore them and bring them to life. If you have something in mind, I’d love to hear about it and see what we can build together.
+
 
 Among other things... I'm also passionate about:  
 🎧 DJingㅤ🤖 3D Modelingㅤ🎨 Graphic Designㅤ🧳 Travelㅤ📚 Reading  
